@@ -1,0 +1,100 @@
+body
+{
+margin: 0;
+padding: 0;
+font-size: 16px;
+color: #434343;
+font-family: "PT Sans", sans-serif, arial;
+background: #f3f3f3;
+
+}
+header
+{
+    margin:0;
+}
+.upload
+{ 
+        background:#e7e7e7; 
+        box-shadow:0px 0px 5px black; 
+        height:200px; 
+        margin: 0 auto;
+} 
+h4
+{
+    margin: 0;
+    text-align: center;
+}
+#subir
+{
+    margin-right: 200px;
+    display: inline-block;
+}
+#uploads
+{ 
+        background: rgb(197, 197, 197);
+        box-shadow:0px 0px 5px black; 
+        margin: 0 auto;
+        color: rgb(0, 0, 0);;
+        min-height: 40px;
+        display: inline-block;
+        padding: 12px;
+        position: fixed;
+        float: right;
+} 
+.uplo
+{
+        background: rgb(197, 197, 197);
+        box-shadow:0px 0px 5px black; 
+        margin: 100px auto;
+        color: rgb(0, 0, 0);;
+        min-height: 40px;
+        display: block;
+        padding: 12px;
+        position: fixed;
+        float: right;
+}
+
+.aa{ 
+        margin: 0 auto; 
+        width: 225px; 
+        
+    } 
+form
+{
+    display: inline-block;
+}
+label
+{ 
+        display: block; 
+    } 
+img
+{
+    height: 70%;
+    margin:40px 10px 0 10px;
+    display: block;
+}
+img:hover
+{
+    height: 100%;
+    padding: 5px;
+    border: 5px solid black;
+}
+input
+{ 
+     display: inline-block;
+     min-width: 100px;
+     height: 40px;
+     margin: 3px;
+} 
+
+div.resultado
+{ 
+        margin: 25px auto 0; 
+        width: 225px; 
+} 
+div.resultado img
+{ 
+        border: 2px solid #EEEEEE; 
+        height: auto; 
+        width: 225px; 
+} 

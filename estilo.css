@@ -1,0 +1,63 @@
+body
+{
+    font-size: 16px;
+}
+.upload{ 
+        background:#e7e7e7; 
+        box-shadow:0px 0px 10px black; 
+        width:500px; 
+        height:200px; 
+        margin-right:auto; 
+        margin-left:auto; 
+        border-radius:20px
+
+} 
+#uploads
+{ 
+        background: rgb(197, 197, 197);
+        box-shadow: 0px 0px 10px rgb(11, 35, 71);
+        text-align: center;
+        color: rgb(0, 0, 0);
+        height: 87px;
+        width: 213px;
+} 
+
+.aa{ 
+        margin: 126px auto 0; 
+        width: 225px; 
+        
+    } 
+
+    h9
+{
+        font-size: 20;
+        font-family: monospace;
+        position: absolute;
+        top: 392;
+        left: auto;
+}
+set
+{ 
+        margin: 6px auto 0; 
+        width: 225px; 
+} 
+label
+{ 
+        display: block; 
+    } 
+input[type="file"]
+{ 
+        display: block; 
+        margin: 8px 0; 
+} 
+div.resultado
+{ 
+        margin: 25px auto 0; 
+        width: 225px; 
+} 
+div.resultado img
+{ 
+        border: 2px solid #EEEEEE; 
+        height: auto; 
+        width: 225px; 
+} 
