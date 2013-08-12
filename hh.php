@@ -4,11 +4,10 @@
   <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>Mi primera app web  XD</title>
-  <link rel="stylesheet" href="" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css' />
-  <link rel="stylesheet" href="estilos.css" />
-  <link rel="stylesheet" href="responsive.css" />
+  <link rel="stylesheet" href="res/css/estilos.css" />
+  <link rel="stylesheet" href="res/css/responsive.css" />
 </head>
  <body>
         </div> 
