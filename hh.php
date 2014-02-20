@@ -8,6 +8,13 @@
   <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css' />
   <link rel="stylesheet" href="res/css/estilos.css" />
   <link rel="stylesheet" href="res/css/responsive.css" />
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src=”http://HTML5shim.googlecode.com/svn/trunk/HTML5.js”>
+  </script>
+  <![endif]-->
 </head>
  <body>
         </div> 
@@ -21,12 +28,12 @@
 <form action="subir.php"> 
    <input type="submit" name="boton" value="Subir archivo">
 </form> 
-<form action="#"> 
+<!-- <form action="#"> 
 <input type="submit" name="boton" value="Crear Carpeta">
-</form> 
-<form action="raiz.php"> 
+</form>  -->
+<!-- <form action="raiz.php"> 
 <input type="submit" name="boton" value="Ver Raiz">
-</form>
+</form> -->
 <form action="hh.php">  
 <input type="submit" name="boton" value="Ver Archivos">
 </form>

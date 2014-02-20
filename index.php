@@ -15,27 +15,27 @@
    <div class="aa">
 <form action=""> 
 <p> 
-<input type="submit" name="boton" value="Home" /> Probado en Wamp ,<h9> Echo por Mario Grieco </h9>
+<input class="red" type="submit" name="boton" value="Home" /> Probado en Wamp ,<h9> Echo </h9>
 </p>   
 </form> 
 <form action="subir.php"> 
-   <input type="submit" name="boton" value="Subir archivo">
+   <input class="red" type="submit" name="boton" value="Subir archivo">
 </form> 
-<form action="#"> 
+<!-- <form action="#"> 
 <input type="submit" name="boton" value="Crear Carpeta">
-</form> 
-<form action="raiz.php"> 
+</form>  -->
+<!-- <form action="raiz.php"> 
 <input type="submit" name="boton" value="Ver Raiz">
-</form>
+</form> -->
 <form action="hh.php"> 	
-<input type="submit" name="boton" value="Ver Archivos">
+<input class="red" type="submit" name="boton" value="Ver Archivos">
 </form>
 </div> 
 	<div id="uploads"> 
    <h4> Archivos en el disco : </h4>
    <?php 
    $archi = 0;
-$numero = 'archivos';
+  $numero = 'archivos';
    
       if ($dir = opendir($numero)){
 	

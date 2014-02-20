@@ -40,6 +40,7 @@ h4
         padding: 12px;
         position: fixed;
         float: right;
+        top: 50%;
 } 
 .uplo
 {
@@ -59,10 +60,17 @@ h4
         width: 225px; 
         
     } 
+    .red
+    {
+        width: 100%;
+        text-align: center;
+
+    }
 form
 {
     display: inline-block;
 }
+
 label
 { 
         display: block; 
@@ -82,7 +90,6 @@ img:hover
 input
 { 
      display: inline-block;
-     min-width: 100px;
      height: 40px;
      margin: 3px;
 } 
